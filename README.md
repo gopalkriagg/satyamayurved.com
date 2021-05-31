@@ -1,4 +1,4 @@
-# vue-frozenproducts.in
+# satyamayurveda.com
 
 ## Project setup
 ```
