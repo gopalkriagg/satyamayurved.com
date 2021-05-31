@@ -25,24 +25,8 @@
                 <b-card-body>
                   <b-card-text>
                     <address>
-                      <strong
-                        >For any query regarding frozen products, please fill
-                        <a href="quote.html">'Get a quote Form'</a> <br />
-                        OR alternatively you may reach us at:
-                      </strong>
-                      <br />
-                      Modern Frozen Products
-                      <br />
-                      (GSTIN 06AGTPB7133Q1ZU)
-                      <br />
-                      Bindu Gupta
-                      <br />
-                      <abbr title="Phone">Mobile:</abbr> +91-9815411199
-                      (WhatsApp), +91-9779246448
-                      <br />
-                      <a href="mailto:ashwini.bindu@gmail.com?subject="
-                        >E-mail: ashwini.bindu@gmail.com</a
-                      >
+                      E 56 Govindpuram Ghaziabad , Uttar Pradesh India Tel:
+                      9899842598 Email: satyamayurvedists@gmail.com
                     </address>
                     <div
                       class="fb-like"
@@ -53,10 +37,14 @@
                       data-share="true"
                     ></div>
                     <p>
-                      We also have
-                      <a href="https://www.indiamart.com/modernfrozenproducts/"
-                        >our catalogue of products at India Mart Website.</a
-                      >
+                      <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6999.875199450691!2d77.49083032694169!3d28.69151317093006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf2c95f3fb4e20008!2sDr.%20Arti%20Jindal&#39;s%20Satyam%20Medical%20Centre!5e0!3m2!1sen!2sjp!4v1622457112507!5m2!1sen!2sjp"
+                        width="600"
+                        height="450"
+                        style="border:0;"
+                        allowfullscreen=""
+                        loading="lazy"
+                      ></iframe>
                     </p>
                     <p>
                       <a href="https://www.dibiz.com/ashwinibindu"

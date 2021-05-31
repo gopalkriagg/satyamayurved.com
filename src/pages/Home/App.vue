@@ -14,7 +14,7 @@
       </b-row>
       <b-row align-h="center" class="mt-2">
         <h1 class="mx-auto">
-          <b-badge variant="success">Modern Frozen Products</b-badge>
+          <b-badge variant="info">Dr. Arti Jindal</b-badge>
         </h1>
       </b-row>
       <b-row align-h="center" class="mt-2">
@@ -26,13 +26,13 @@
                   <b-card-text>
                     <div>
                       <p>
-                        We offer A Plus Grade frozen green peas, sweet corn,
-                        baby corn, carrot, cauliflower, broccoli, cut beans,
-                        okra, three way and four way mixed vegetable at best
-                        competitive rates.
+                        We are specialized in treating following illnesses
                       </p>
                       <p>
-                        Quotation on request.
+                        Satyam Ayurved provides the patients with pure
+                        ayurvedic medicines prepared by the renowned ayurvedist
+                        Dr. Arti Jindal. We guarentee the treatment and provide
+                        the best results in a short duration of time!
                       </p>
                       <p>
                         Packings Available 30 kg, 5 kg, 1kg, 500 gms and 200

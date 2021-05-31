@@ -26,24 +26,29 @@
                   <b-card-text>
                     <div>
                       <h4>
-                        Brief Profile of Bindu Gupta
-                        <small>(MBA Finance, M.Com)</small>
+                        Brief Profile of Dr. Arti Jindal
+                        <!-- <small>(MBA Finance, M.Com)</small> -->
                       </h4>
                       <p>
                         <ul>
                           <li>
-                            She has rich experience of more than Eighteen years in the field of frozen products.
+                            Dr. Arti Jindal (founder of Satyam Ayurved) has been practicing for past 17 years and has brought smiles to soo many patients in her practice. Ayurveda is considered to be the oldest pathy and has proved to be highly successful if practiced properly. She has cured chronic diseases in which operations and surgeries were inevitable. The medicines ,oitments, oils are prepared by the doctor herself and have always proven themselves to be the best. The dermaherb is highly successful for all skin diseases especially chronic eczema , acne \& leucoderma. She has also practiced as a gynecologist and has special ayurvedic medicines for gynic issues like infertility,PCOD,leucorrhoea.
+
+All the chronic diseases are cured using ayurvedic medicines only.It is a well known fact that ayurved always yields side benifits not side effects!
                           </li>
                           <li>
-                            She deals in all kinds of frozen products, mainly frozen green peas, sweet corn, baby corn, carrot,
-                            cauliflower, broccoli, cut beans, okra, three way and four way mixed vegetable.
-                          </li>
-                          <li>
-                            USP of her business is A+ quality of products, best rates and best service in the industry.
+                            For online appointment or ordering our herbal medicines kindly contact +91 9899842598. For recieving a call back fill the details below
                           </li>
                         </ul>
-                      We are a team of high level professionals working in the area of supplying IQF Green Peas/vegetables all over
-                      India for more than a decade.
+
+                        </p>
+                        <p>
+                          Monday - Saturday: 10:30 - 1:30
+                          5:00 - 7:30
+                          Sunday: 10:30-1:30
+                        </p>
+                      <p>
+                        "The real medicine comes from the earth ,not from the laboratories!" ~ Dr. Arti Jindal
                       </p>
                     </div>
                   </b-card-text>
