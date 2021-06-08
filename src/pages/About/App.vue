@@ -80,7 +80,7 @@ export default {
 
 <style>
 body {
-  background-image: url("../../assets/background.jpg");
+  background-image: url("../../assets/background4.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
