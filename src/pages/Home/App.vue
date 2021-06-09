@@ -44,19 +44,24 @@
                         We are specialized in treating following illnesses
                       </p>
                       <p>
-                        Satyam Ayurved provides the patients with pure
-                        ayurvedic medicines prepared by the renowned ayurvedist
-                        Dr. Arti Jindal. We guarentee the treatment and provide
-                        the best results in a short duration of time!
+                        Satyam Ayurved provides the patients with pure ayurvedic
+                        medicines prepared by the renowned ayurvedist Dr. Arti
+                        Jindal. We guarentee the treatment and provide the best
+                        results in a short duration of time!
                       </p>
-
 
                       <address>
                         Satyam Medical Centre
                         <br />
                         Dr. Arti Jindal
                         <br />
-                        <abbr title="Phone">Mobile:</abbr> +91-98998-42598, +91-8076079269
+                        <abbr title="Phone">Mobile:</abbr> +91-98998-42598,
+                        +91-8076079269
+                        <br />
+                        Visit us at:<br />
+                        E-56<br />
+                        Near Govindpuram bus stand<br />
+                        Ghaziabad
                       </address>
                     </div>
                   </b-card-text>
