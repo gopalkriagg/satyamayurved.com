@@ -2,49 +2,37 @@
   <div>
     <b-carousel :interval="4000" controls indicators>
       <b-carousel-slide
-        caption="India Mart Trust Seal"
-        text="Received India Mart Trust Seal"
-        img-src="../assets/india_mart_certificate.jpg"
+        caption="Dr. Arti Jindal"
+        img-src="../assets/dr_arti_jindal.jpg"
       />
 
       <b-carousel-slide
-        caption="Bindu Gupta"
-        img-src="../assets/bindu_gupta.jpg"
+        caption="Satyam Medical Centre"
+        img-src="../assets/clinic_outside.jpg"
       />
 
       <b-carousel-slide
-        caption="IQF Green Peas"
-        img-src="../assets/frozen_green_peas.jpg"
+        img-src="../assets/products1.jpg"
       />
 
       <b-carousel-slide
-        caption="Frozen Vegetables Collage"
-        img-src="../assets/product_variety.jpg"
+        img-src="../assets/products1.jpg"
       />
 
       <b-carousel-slide
-        caption="IQF Sweet Corn"
-        img-src="../assets/frozen_sweet_corn.jpg"
+        img-src="../assets/products2.jpg"
       />
 
       <b-carousel-slide
-        caption="IQF Mix Vegetables"
-        img-src="../assets/frozen_mixed_vegetable.jpg"
+        img-src="../assets/products3.jpg"
       />
 
       <b-carousel-slide
-        caption="IQF Baby Corn"
-        img-src="../assets/corn_on_cob.jpg"
+        img-src="../assets/products4.jpg"
       />
 
       <b-carousel-slide
-        caption="IQF Cut Beans"
-        img-src="../assets/frozen_cut_beans.jpg"
-      />
-
-      <b-carousel-slide
-        caption="Modern Frozen Products"
-        img-src="../assets/modern_frozen_products.jpg"
+        img-src="../assets/products5.jpg"
       />
 
     </b-carousel>
