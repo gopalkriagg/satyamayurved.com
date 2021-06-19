@@ -9,32 +9,20 @@ module.exports = {
     'about': {
       entry: './src/pages/About/main.js',
       template: 'public/index.html',
-      title: 'About',
+      title: 'About Dr. Arti Jindal',
       chunks: ['chunk-vendors', 'chunk-common', 'about']
     },
-    'products': {
-      entry: './src/pages/Products/main.js',
+    'specialities': {
+      entry: './src/pages/Specialities/main.js',
       template: 'public/index.html',
-      title: 'Products',
-      chunks: ['chunk-vendors', 'chunk-common', 'products']
+      title: 'Specialities',
+      chunks: ['chunk-vendors', 'chunk-common', 'specialities']
     },
-    'quote': {
-      entry: './src/pages/Quote/main.js',
+    'access': {
+      entry: './src/pages/Access/main.js',
       template: 'public/index.html',
-      title: 'Get A Quote',
-      chunks: ['chunk-vendors', 'chunk-common', 'quote']
-    },
-    'contact': {
-      entry: './src/pages/ContactUs/main.js',
-      template: 'public/index.html',
-      title: 'Contact Us',
-      chunks: ['chunk-vendors', 'chunk-common', 'contact']
-    },
-    'faqs': {
-      entry: './src/pages/FAQs/main.js',
-      template: 'public/index.html',
-      title: 'Frequently Asked Questions',
-      chunks: ['chunk-vendors', 'chunk-common', 'faqs']
+      title: 'Access',
+      chunks: ['chunk-vendors', 'chunk-common', 'access']
     },
   }
 }

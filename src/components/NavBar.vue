@@ -13,10 +13,10 @@
           <b-nav-item :active="$page === 'About'" href="/about.html">
             About Dr. Arti Jindal
           </b-nav-item>
-          <b-nav-item :active="$page === 'Products'" href="/products.html">
+          <b-nav-item :active="$page === 'Products'" href="/specialities.html">
             Specialities
           </b-nav-item>
-          <b-nav-item :active="$page === 'ContactUs'" href="/contact.html">
+          <b-nav-item :active="$page === 'ContactUs'" href="/access.html">
             Access & Opening hours
           </b-nav-item>
         </b-navbar-nav>
