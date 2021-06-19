@@ -3,20 +3,7 @@
     <NavBar />
     <b-container class="bv-example-row">
       <b-row class="my-5" />
-      <b-row align-h="center">
-        <b-col sm="3">
-          <b-img
-            src="../../assets/modern_frozen_products_logo.png"
-            fluid
-            alt="Responsive image"
-          ></b-img>
-        </b-col>
-      </b-row>
-      <b-row align-h="center" class="mt-2">
-        <h1 class="mx-auto">
-          <b-badge variant="success">Modern Frozen Products</b-badge>
-        </h1>
-      </b-row>
+      <MainHeader />
       <b-row align-h="center" class="mt-2">
         <b-col>
           <b-card no-body class="overflow-hidden">
@@ -211,12 +198,14 @@
 <script>
 import NavBar from "../../components/NavBar";
 import Carousel from "../../components/Carousel";
+import MainHeader from "../../components/MainHeader";
 
 export default {
   name: "App",
   components: {
     NavBar,
     Carousel,
+    MainHeader,
   },
 };
 </script>
