@@ -15,7 +15,7 @@
                       <p>
                         Satyam Ayurveda provides the patients with pure ayurvedic
                         medicines prepared by the renowned ayurvedist Dr. Arti
-                        Jindal. We guarentee the treatment and provide the best
+                        Jindal. We guarantee the treatment and provide the best
                         results in a short duration of time!
                       </p>
 
