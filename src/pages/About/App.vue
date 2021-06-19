@@ -14,7 +14,6 @@
                     <div>
                       <h4>
                         Brief Profile of Dr. Arti Jindal
-                        <!-- <small>(MBA Finance, M.Com)</small> -->
                       </h4>
                       <p>
                         <ul>
