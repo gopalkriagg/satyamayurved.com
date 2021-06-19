@@ -30,8 +30,21 @@ All the chronic diseases are cured using ayurvedic medicines only.It is a well k
 
                         </p>
                       <p>
-                        "The real medicine comes from the earth ,not from the laboratories!" ~ Dr. Arti Jindal
+                        "The real medicine comes from the earth, not from the laboratories!" ~ Dr. Arti Jindal
                       </p>
+
+                    <p>
+                      <img
+                        src="../../assets/visiting_card_front.png"
+                        style="width: 100%;"
+                      />
+                    </p>
+                    <p>
+                      <img
+                        src="../../assets/visiting_card_back.png"
+                        style="width: 100%;"
+                      />
+                    </p>
                     </div>
                   </b-card-text>
                 </b-card-body>

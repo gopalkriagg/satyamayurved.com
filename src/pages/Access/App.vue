@@ -37,12 +37,6 @@
                         loading="lazy"
                       ></iframe>
                     </p>
-                    <p>
-                      <img
-                        src="../../assets/business_card.jpg"
-                        style="width: 100%;"
-                      />
-                    </p>
                   </b-card-text>
                 </b-card-body>
               </b-col>
