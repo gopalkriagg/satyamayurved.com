@@ -19,9 +19,9 @@
                       <p>
                         <ul>
                           <li>
-                            Dr. Arti Jindal (founder of Satyam Ayurved) has been practicing for past 17 years and has brought smiles to soo many patients in her practice. Ayurveda is considered to be the oldest pathy and has proved to be highly successful if practiced properly. She has cured chronic diseases in which operations and surgeries were inevitable. The medicines ,oitments, oils are prepared by the doctor herself and have always proven themselves to be the best. The dermaherb is highly successful for all skin diseases especially chronic eczema , acne \& leucoderma. She has also practiced as a gynecologist and has special ayurvedic medicines for gynic issues like infertility,PCOD,leucorrhoea.
+                            Dr. Arti Jindal (founder of Satyam Ayurveda) has been practicing for past 17 years and has brought smiles to soo many patients in her practice. Ayurveda is considered to be the oldest pathy and has proved to be highly successful if practiced properly. She has cured chronic diseases in which operations and surgeries were inevitable. The medicines ,oitments, oils are prepared by the doctor herself and have always proven themselves to be the best. The dermaherb is highly successful for all skin diseases especially chronic eczema , acne \& leucoderma. She has also practiced as a gynecologist and has special ayurvedic medicines for gynic issues like infertility,PCOD,leucorrhoea.
 
-All the chronic diseases are cured using ayurvedic medicines only.It is a well known fact that ayurved always yields side benifits not side effects!
+All the chronic diseases are cured using ayurvedic medicines only.It is a well known fact that ayurveda always yields side benifits not side effects!
                           </li>
                           <li>
                             For online appointment or ordering our herbal medicines kindly contact +91 9899842598. For recieving a call back fill the details below
