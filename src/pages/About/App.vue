@@ -29,11 +29,6 @@ All the chronic diseases are cured using ayurvedic medicines only.It is a well k
                         </ul>
 
                         </p>
-                        <p>
-                          Monday - Saturday: 10:30 - 1:30
-                          5:00 - 7:30
-                          Sunday: 10:30-1:30
-                        </p>
                       <p>
                         "The real medicine comes from the earth ,not from the laboratories!" ~ Dr. Arti Jindal
                       </p>
