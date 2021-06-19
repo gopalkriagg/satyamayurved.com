@@ -24,9 +24,8 @@
         <!-- Right aligned nav items -->
         <b-navbar-nav class="ml-auto">
           <b-nav-item
-            href="https://api.whatsapp.com/send?phone=919815411199&text="
+            href="https://api.whatsapp.com/send?phone=919899842598&text="
           >
-            <!-- <b-icon icon="whatsapp" style="color: white;"></b-icon> -->
             Whatsapp
           </b-nav-item>
         </b-navbar-nav>
